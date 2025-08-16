@@ -38,7 +38,6 @@ I'm a **UI/UX designer and Flutter front-end developer** passionate about crafti
 ## 📫 Contact Me
 
 - 📧 Email: alkaffamal2@gmail.com
-- 💼 LinkedIn: amal-alkaff-978301379
-- 💻 GitHub: amalkaf
+- 💼 [LinkedIn](https://www.linkedin.com/in/amal-alkaff-978301379/)
+- 💻 [GitHub](https://github.com/amalkaf)
 
-> "Designing experiences that users remember — not just use."
